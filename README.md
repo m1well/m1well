@@ -1,16 +1,13 @@
-### Hi there 👋
+## Michael Wellner (@m1well)
+Hi there, I am Michael and I am a passionate software developer from the south of germany.   
+Currently developing fullstack with spring boot and angular.   
+I also have a good understanding of the devops concepts.   
 
-<!--
-**m1well/m1well** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### my actual tech steck
+https://stackshare.io/m1well/main-stack
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### get In toch
+Twitter: https://twitter.com/m1well
+LinkedIn: https://linkedin.com/in/michael-wellner/
+XING: https://www.xing.com/profile/Michael_Wellner5/
