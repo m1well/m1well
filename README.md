@@ -7,7 +7,7 @@ I also have a good understanding of the devops concepts.
 https://stackshare.io/m1well/main-stack
 
 
-#### get In toch
-Twitter: https://twitter.com/m1well
-LinkedIn: https://linkedin.com/in/michael-wellner/
-XING: https://www.xing.com/profile/Michael_Wellner5/
+#### get in touch
+* Twitter: https://twitter.com/m1well
+* LinkedIn: https://linkedin.com/in/michael-wellner/
+* XING: https://www.xing.com/profile/Michael_Wellner5/
