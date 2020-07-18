@@ -3,7 +3,7 @@ Hi there, I am Michael and I am a passionate software developer from the south o
 Currently developing fullstack with spring boot and angular.   
 I also have a good understanding of the devops concepts.   
 
-#### my actual tech steck
+#### my actual tech stack
 https://stackshare.io/m1well/main-stack
 
 
