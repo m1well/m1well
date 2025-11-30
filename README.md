@@ -1,7 +1,7 @@
 👋 Hi, I’m Michael (@m1well)
 
-Fullstack Software Developer from the south of Germany 🇩🇪
-Specialized in robust Spring Boot (Java/Kotlin) backends and modern Angular frontends.
+Fullstack Software Developer from the south of Germany 🇩🇪  
+Specialized in robust Spring Boot (Java/Kotlin) backends and modern Angular frontends.  
 With more than a decade of experience, I’ve built scalable microservices, supported teams, introduced technologies, and consistently lived Clean Code principles.
 
 ---
