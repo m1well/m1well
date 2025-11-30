@@ -6,7 +6,8 @@ With more than a decade of experience, I’ve built scalable microservices, supp
 
 ---
 
-🔧 My Tech Focus
+🔧 My Tech Focus  
+
 🖥 Backend Engineering
 - Java / Kotlin, Spring Boot, Spring Cloud, Quarkus
 - REST APIs, JPA/Hibernate, SQL (PostgreSQL, MySQL)
@@ -34,7 +35,7 @@ With more than a decade of experience, I’ve built scalable microservices, supp
 
 ---
 
-🛠 My Tech Stack on stackshare
+🛠 My Tech Stack on stackshare  
 👉 https://stackshare.io/m1well/main-stack
 
 ---
